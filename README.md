@@ -1,7 +1,6 @@
 **Scraping wikipedia.com and imdb.com **
 
-objective: To get celebrity's birthdays for let's say a virtual blog which we want to build.
-
+objective: To get celebrity's birthdays.
 output: a python dictionary which has celebrity name as key and their birthdays as value.(i.e {'Tom Cruise': }
 
 dependency:
